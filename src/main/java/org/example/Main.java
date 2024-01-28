@@ -37,6 +37,7 @@ public class Main {
                 System.out.println("Неверный выбор");
                 break;
         }
+        in.close();
     }
 
     public static void calculator() {
